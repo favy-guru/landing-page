@@ -70,6 +70,9 @@ navbar{
     right: -1600px;
     top: 120px;
   }
+  .school{
+  
+  }
   .container{
     position: relative;
     float: right;
@@ -93,7 +96,7 @@ navbar{
     position: relative;
     text-align: center;
     left: 20px;
-    top: 50px;
+    top:-70px;
 }
 
 .wrap p{
