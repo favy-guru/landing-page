@@ -1,0 +1,245 @@
+navbar{
+    margin: 0;
+    padding: 0;
+}
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+.navbar li{
+   
+   text-align:center ; 
+   float: right;
+   margin-right: 50px;
+}
+.navbar li a{
+    display: inline-block;
+    text-align: l;
+    padding-bottom: 100px;
+    text-decoration: none;
+    vertical-align: top;
+}
+.navbar li a.active{
+    background-color: green;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+.contain{
+    margin: 14px 25px;
+    padding-bottom: 60px;
+}
+.input{
+ 
+    width: 40%;
+  }
+  .input input[type=text]{
+      padding: 16px;
+      margin-top: 8px;
+      margin-right: 16px;
+      font-size: 17px;
+      border: none;
+  }
+  .input button{
+      background-color: green;
+      color: white;
+      padding: 16px 30px 16px 30px;
+      margin-top: 8px;
+      margin-right: 16px;
+      font-size: 17px;
+      border: none;
+      float: right;
+  }
+  h4{
+      color: rgb(76, 161, 76);
+      font-size: 25px;
+  }
+  h1{
+      font-size: 50px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-top: 10px;
+  }
+  .lady{
+    position: absolute;
+    float: right;
+    right: -1600px;
+    top: 120px;
+  }
+  .container{
+    position: relative;
+    float: right;
+    top: 90px;
+    left: -50px;
+}
+.container p{
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.container button{
+    background-color: green;
+    color: white;
+    padding: 14px;
+    margin-top: 8px;
+    margin-right: 16px;40px
+    font-size: 17px;
+    border: none;
+}
+.wrap{
+    position: relative;
+    text-align: center;
+    left: 20px;
+    top: 50px;
+}
+
+.wrap p{
+    font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    position: relative;
+    display: block;
+    margin: 15px;
+    padding: 50px;
+}
+.select{
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    font-size: 16px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.fill{
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    font-size: 16px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.start{
+    background-color: white;
+    border:none;
+    border-radius: 5px;
+    width: 30%;
+    padding: 20px;
+    font-size: 16px;
+    box-shadow: 5px 10px 18px #888888;
+}
+.join{
+    position: relative;
+    right: -700px;
+    bottom: 480px;
+}
+.wrape{
+    text-align: center;
+}
+.meat{
+    position: relative;
+    right: -20px;
+    padding-top: 20px;
+    float: left;
+    width:300px;
+    margin-top: 20px;
+}
+
+.meat img{
+   width: 60%;
+}
+.fish{
+    padding: 15px;
+    text-align: left;
+}
+.ladyy{
+    position: relative;
+   left: -750px;
+   
+}
+.fav{
+    position: relative;
+    bottom: 250px;
+    width: 40%;
+    
+    right: -570px;
+
+  }
+  .fav input[type=text]{
+      padding: 6px 6px 6px 36px;
+      margin-top: 8px;
+      margin-right: 16px;
+      font-size: 17px;
+      border: none;
+  }
+  .fav button{
+    background-color: green;
+    color: white;
+    padding: 14px;
+    margin-top: 8px;
+    margin-right: 16px;40px
+    font-size: 17px;
+    border: none;
+}
+  .fav h4{
+   font-size: 25px;
+  }
+  .foot h5{
+    float: right;
+    }
+    .footer {
+      position: absolute;
+    width: 100%;
+    border-radius: 6px;
+      background: #0f0f0f;
+      opacity: 0.9;
+      
+    }
+    .footer .footer-row {
+        position: relative;
+      display: flex;
+      flex-wrap: wrap;
+     justify-content:center;
+     bottom: 200px;
+    }
+    .footer-row .footer-col h4 {
+      color: #fff;
+      font-size: 1.2rem;
+      font-weight: 400;
+    }
+    .footer-col .links {
+      margin-top: 20px;
+      padding: 32px;
+    }
+    .footer-col .links li {
+      list-style: none;
+      margin-bottom: 10px;
+    }
+    .footer-col .links li a {
+      text-decoration: none;
+      color: #bfbfbf;
+      display: block;
+    }
+    .footer-col .links li a:hover {
+      color: #fff;
+    }
+    .footer-col p {
+      margin: 20px 0;
+      color: #bfbfbf;
+    }
+    .footer h5{
+      color: #fff;
+    }
+    .footer-cole{
+      position: relative;
+      
+    }
+    .footer-cole p{
+        color: #fff;
+        margin-bottom: 100px;
+    }
